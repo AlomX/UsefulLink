@@ -6,6 +6,8 @@ Just a bunch of useful links.
 - Dev
   - [Openings.moe](https://github.com/AniDevTwitter/animeopenings) - Weeb shit
   - [Epieos](https://epieos.com/) - It's time to find everything with a simple e-mail
+  - [Awesome Search Engines](https://github.com/gguilt/awesome-search-engines) - List of usefull search engine
+  - [Online Tools](https://gist.github.com/unitycoder/ade29d3e549b1c33c10ec55e4ea80b70) - Some Web Tools
 
 - Images & Videos
   - [LottieFiles](https://lottiefiles.com/) - Create animations with ease
@@ -26,6 +28,8 @@ Just a bunch of useful links.
 
 - Learning
   - [MITopenCourseWare](https://ocw.mit.edu/) - MIT open courses
+  - [Wes Bos JS](https://wesbos.com/javascript) - Learn Javascript
+  - [Modern JavaScript Tutorial](https://javascript.info/) - Modern JavaScript Tutorial
   
 - App 
   - [Forest](https://forestapp.cc/) - stay focused, be present
