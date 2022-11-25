@@ -38,3 +38,5 @@ Just a bunch of useful links.
 - AI
   - [Voldy Retard Guide](https://rentry.org/voldy) - The definitive Stable Diffusion experience
   - [FAI](https://github.com/TheLastBen/fast-stable-diffusion) - Colab version of AUTOMATIC1111/stable-diffusion-webui
+  - [DeepDanbooru](https://github.com/KichangKim/DeepDanbooru) - Extract tag like Danbooru from image
+  
