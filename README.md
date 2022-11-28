@@ -8,6 +8,7 @@ Just a bunch of useful links.
   - [Epieos](https://epieos.com/) - It's time to find everything with a simple e-mail
   - [Awesome Search Engines](https://github.com/gguilt/awesome-search-engines) - List of usefull search engine
   - [Online Tools](https://gist.github.com/unitycoder/ade29d3e549b1c33c10ec55e4ea80b70) - Some Web Tools
+  - [Every Programmer Should Know] (https://github.com/mtdvio/every-programmer-should-know) - A collection of technical things every software developer should know
 
 - Images & Videos
   - [LottieFiles](https://lottiefiles.com/) - Create animations with ease
