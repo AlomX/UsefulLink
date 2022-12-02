@@ -32,6 +32,7 @@ Just a bunch of useful links.
   - [MITopenCourseWare](https://ocw.mit.edu/) - MIT open courses
   - [Wes Bos JS](https://wesbos.com/javascript) - Learn Javascript
   - [Modern JavaScript Tutorial](https://javascript.info/) - Modern JavaScript Tutorial
+  - [Pattern Collider](https://aatishb.com/patterncollider/) - Penrose Editor
   
 - App 
   - [Forest](https://forestapp.cc/) - stay focused, be present
