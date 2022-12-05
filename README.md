@@ -10,6 +10,7 @@ Just a bunch of useful links.
   - [Online Tools](https://gist.github.com/unitycoder/ade29d3e549b1c33c10ec55e4ea80b70) - Some Web Tools
   - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - A collection of technical things every software developer should know
   - [The Modern JavaScript Tutorial](https://github.com/javascript-tutorial/en.javascript.info/tree/master) - Learn JavaScript, starting from scratch and go on to advanced concepts like OOP
+  - [IPFS](https://docs.ipfs.tech/) - Unobtrusive and user-friendly desktop application for IPFS
 
 - Images & Videos
   - [LottieFiles](https://lottiefiles.com/) - Create animations with ease
