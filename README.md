@@ -37,7 +37,7 @@ Just a bunch of useful links.
   
 - App 
   - [Forest](https://forestapp.cc/) - stay focused, be present
-  - [Odoo](odoo.com) - all in one business tool
+  - [Odoo](https://odoo.com/) - all in one business tool
   - [Futurepedia](https://www.futurepedia.io/) - The largest ai tools directory
   
 - AI
