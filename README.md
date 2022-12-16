@@ -11,6 +11,7 @@ Just a bunch of useful links.
   - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - A collection of technical things every software developer should know
   - [The Modern JavaScript Tutorial](https://github.com/javascript-tutorial/en.javascript.info/tree/master) - Learn JavaScript, starting from scratch and go on to advanced concepts like OOP
   - [IPFS](https://docs.ipfs.tech/) - Unobtrusive and user-friendly desktop application for IPFS
+  - [Console Ninja](https://console-ninja.com/) - Console log output right next to your code
 
 - Images & Videos
   - [LottieFiles](https://lottiefiles.com/) - Create animations with ease
@@ -46,4 +47,8 @@ Just a bunch of useful links.
   - [FAI](https://github.com/TheLastBen/fast-stable-diffusion) - Colab version of AUTOMATIC1111/stable-diffusion-webui
   - [DeepDanbooru](https://github.com/KichangKim/DeepDanbooru) - Extract tag like Danbooru from image
   - [Detic](https://github.com/facebookresearch/Detic) - Object Detection and Segmentation of 21k Classes with High Accuracy ( [example](https://huggingface.co/spaces/taesiri/DeticChatGPT) ) 
+  - [D-ID](https://www.d-id.com/) - Create talking digital humans at scale with AI
+  - [Lumalabs.ai](https://lumalabs.ai/) - Capture in lifelike 3D
+  - [Riffusion](https://www.riffusion.com/about) - Real-time music generation with stable diffusion
+  - [Dream Textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor
   
