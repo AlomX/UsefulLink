@@ -54,4 +54,7 @@ Just a bunch of useful links.
   - [Riffusion](https://www.riffusion.com/about) - Real-time music generation with stable diffusion
   - [Dream Textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor
   - [Stablediffusion Infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
+  - [DeOldify](https://github.com/jantic/DeOldify) - Deep Learning based project for colorizing and restoring old images
+  - [Robust Video Matting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting with Temporal Guidance ( [Colab](https://github.com/cedro3/others2/blob/main/video_matting.ipynb) ) 
+  - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image/Video Restoration
   
