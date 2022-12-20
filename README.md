@@ -12,6 +12,8 @@ Just a bunch of useful links.
   - [The Modern JavaScript Tutorial](https://github.com/javascript-tutorial/en.javascript.info/tree/master) - Learn JavaScript, starting from scratch and go on to advanced concepts like OOP
   - [IPFS](https://docs.ipfs.tech/) - Unobtrusive and user-friendly desktop application for IPFS
   - [Console Ninja](https://console-ninja.com/) - Console log output right next to your code
+  - [KAPAO](https://github.com/wmcnally/kapao) - Efficient single-stage human pose estimation model ( [Colab](https://github.com/cedro3/kapao/blob/master/kapao_latest.ipynb) )
+  - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time Full-Body Multi-Person Pose Estimation & Tracking
 
 - Images & Videos
   - [LottieFiles](https://lottiefiles.com/) - Create animations with ease
@@ -51,4 +53,5 @@ Just a bunch of useful links.
   - [Lumalabs.ai](https://lumalabs.ai/) - Capture in lifelike 3D
   - [Riffusion](https://www.riffusion.com/about) - Real-time music generation with stable diffusion
   - [Dream Textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor
+  - [Stablediffusion Infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
   
