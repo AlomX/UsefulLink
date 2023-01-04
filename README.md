@@ -14,6 +14,7 @@ Just a bunch of useful links.
   - [Console Ninja](https://console-ninja.com/) - Console log output right next to your code
   - [KAPAO](https://github.com/wmcnally/kapao) - Efficient single-stage human pose estimation model ( [Colab](https://github.com/cedro3/kapao/blob/master/kapao_latest.ipynb) )
   - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time Full-Body Multi-Person Pose Estimation & Tracking
+  - [uiverse.io](https://uiverse.io/) - Open-Source UI elements made with HTML and CSS
 
 - Images & Videos
   - [LottieFiles](https://lottiefiles.com/) - Create animations with ease
