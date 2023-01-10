@@ -45,6 +45,7 @@ Just a bunch of useful links.
   - [Forest](https://forestapp.cc/) - stay focused, be present
   - [Odoo](https://odoo.com/) - all in one business tool
   - [Futurepedia](https://www.futurepedia.io/) - The largest ai tools directory
+  - [Nvidia Maxine](https://developer.nvidia.com/maxine) - Simulates eye contact by estimating and aligning gaze with the camera
   
 - AI
   - [Voldy Retard Guide](https://rentry.org/voldy) - The definitive Stable Diffusion experience
