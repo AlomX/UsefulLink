@@ -24,6 +24,7 @@ Just a bunch of useful links.
   - [Simple Icons](https://simpleicons.org/) - SVG icons of brand
   - [RemoveBg](https://www.remove.bg/) - Easy remove background
   - [Photopea](https://www.photopea.com/) - Free Photoshop online
+  - [Openpeeps](https://openpeeps.com/) - Hand-drawn illustration library
 
 - Documents 
   - [PDFescape](https://www.pdfescape.com/) - edit a pdf online
