@@ -17,6 +17,7 @@ Just a bunch of useful links.
   - [uiverse.io](https://uiverse.io/) - Open-Source UI elements made with HTML and CSS
   - [japan-eq-locator](https://github.com/nagix/japan-eq-locator) - A 3D hypocenter map of earthquakes around Japan
   - [ossinsight.io](https://ossinsight.io/) - Open Source Software Insight
+  - [DiscoScene](https://snap-research.github.io/discoscene/) - Spatially Disentangled Generative Radiance Field for Controllable 3D-aware Scene Synthesis
 
 - Images & Videos
   - [LottieFiles](https://lottiefiles.com/) - Create animations with ease
