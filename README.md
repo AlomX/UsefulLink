@@ -26,6 +26,7 @@ Just a bunch of useful links.
   - [RemoveBg](https://www.remove.bg/) - Easy remove background
   - [Photopea](https://www.photopea.com/) - Free Photoshop online
   - [Openpeeps](https://openpeeps.com/) - Hand-drawn illustration library
+  - [Stereogram Solver](https://github.com/piellardj/stereogram-solver) - Stereogram (aka Magic Eye) solver
 
 - Documents 
   - [PDFescape](https://www.pdfescape.com/) - edit a pdf online
