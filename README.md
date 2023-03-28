@@ -64,4 +64,7 @@ Just a bunch of useful links.
   - [DeOldify](https://github.com/jantic/DeOldify) - Deep Learning based project for colorizing and restoring old images
   - [Robust Video Matting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting with Temporal Guidance ( [Colab](https://github.com/cedro3/others2/blob/main/video_matting.ipynb) ) 
   - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Practical Algorithms for General Image/Video Restoration
+  - [TalkNET](https://github.com/bycloudai/TalkNET-colab) - NVIDIA's TalkNET - Train on colab
+  - [Whisper](https://github.com/mallorbc/whisper_mic) - Project that allows one to use a microphone with OpenAI whisper
+  - [Anime from A Single Image 3](https://github.com/pkhungurn/talking-head-anime-3-demo) - Talking Head(?) Anime from a Single Image 3: Now the Body Too
   
