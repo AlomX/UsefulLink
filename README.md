@@ -18,6 +18,7 @@ Just a bunch of useful links.
   - [japan-eq-locator](https://github.com/nagix/japan-eq-locator) - A 3D hypocenter map of earthquakes around Japan
   - [ossinsight.io](https://ossinsight.io/) - Open Source Software Insight
   - [DiscoScene](https://snap-research.github.io/discoscene/) - Spatially Disentangled Generative Radiance Field for Controllable 3D-aware Scene Synthesis
+  - [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - List of Free app which can be hosted on your own servers
 
 - Images & Videos
   - [LottieFiles](https://lottiefiles.com/) - Create animations with ease
