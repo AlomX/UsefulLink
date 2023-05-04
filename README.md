@@ -69,4 +69,6 @@ Just a bunch of useful links.
   - [TalkNET](https://github.com/bycloudai/TalkNET-colab) - NVIDIA's TalkNET - Train on colab
   - [Whisper](https://github.com/mallorbc/whisper_mic) - Project that allows one to use a microphone with OpenAI whisper
   - [Anime from A Single Image 3](https://github.com/pkhungurn/talking-head-anime-3-demo) - Talking Head(?) Anime from a Single Image 3: Now the Body Too
+  - [GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3
+  - [Pix2Pix3D](https://github.com/dunbar12138/pix2pix3D) - pix2pix3D: Generating 3D Objects from 2D User Inputs
   
