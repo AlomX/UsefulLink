@@ -20,6 +20,7 @@ Just a bunch of useful links.
   - [DiscoScene](https://snap-research.github.io/discoscene/) - Spatially Disentangled Generative Radiance Field for Controllable 3D-aware Scene Synthesis
   - [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - List of Free app which can be hosted on your own servers
   - [Blender-ControlNet](https://github.com/coolzilj/Blender-ControlNet) - Using Multiple ControlNet in Blender.
+  - [Pulse](https://github.com/marcin-laskowski/Pulse) - Upsampling via Latent Space Exploration of Generative Models
 
 - Images & Videos
   - [LottieFiles](https://lottiefiles.com/) - Create animations with ease
@@ -71,4 +72,5 @@ Just a bunch of useful links.
   - [Anime from A Single Image 3](https://github.com/pkhungurn/talking-head-anime-3-demo) - Talking Head(?) Anime from a Single Image 3: Now the Body Too
   - [GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3
   - [Pix2Pix3D](https://github.com/dunbar12138/pix2pix3D) - pix2pix3D: Generating 3D Objects from 2D User Inputs
+  - [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA
   
