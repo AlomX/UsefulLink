@@ -21,6 +21,7 @@ Just a bunch of useful links.
   - [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - List of Free app which can be hosted on your own servers
   - [Blender-ControlNet](https://github.com/coolzilj/Blender-ControlNet) - Using Multiple ControlNet in Blender.
   - [Pulse](https://github.com/marcin-laskowski/Pulse) - Upsampling via Latent Space Exploration of Generative Models
+  - [Codecompare](https://www.devart.com/codecompare/) - Compare and Merge Your Source Code
 
 - Images & Videos
   - [LottieFiles](https://lottiefiles.com/) - Create animations with ease
