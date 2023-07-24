@@ -54,6 +54,7 @@ Just a bunch of useful links.
   - [Odoo](https://odoo.com/) - all in one business tool
   - [Futurepedia](https://www.futurepedia.io/) - The largest ai tools directory
   - [Nvidia Maxine](https://developer.nvidia.com/maxine) - Simulates eye contact by estimating and aligning gaze with the camera
+  - [VDO.Ninja](https://vdo.ninja/) - Bring live video by Peer-to-Peer from your smartphone, remote computer, or friends directly into OBS or other studio software
   
 - AI
   - [Voldy Retard Guide](https://rentry.org/voldy) - The definitive Stable Diffusion experience
