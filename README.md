@@ -38,6 +38,7 @@ Just a bunch of useful links.
   - [MailTrack](https://mailtrack.io/) - Trask if a mail have been open
   - [Merci App](https://www.merci-app.com/) - French corrector
   - [Smash](https://fromsmash.com/) - Send bigger files than weTransfer, possibility to customize your sharing link
+  - [ASCIIFlow](https://asciiflow.com/#/) - Infinite ASCII diagrams, save to Google Drive, resize, freeform draw, and export straight to text/html
   
 - Audio
   - [SplitMySong](https://www.splitmysong.com/my-songs) - Split track of a song
