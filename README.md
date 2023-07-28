@@ -79,4 +79,5 @@ Just a bunch of useful links.
   - [Pix2Pix3D](https://github.com/dunbar12138/pix2pix3D) - pix2pix3D: Generating 3D Objects from 2D User Inputs
   - [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA
   - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) - An Automatic Evaluator for Instruction-following Language Models
+  - [SD-CN-Animation](https://github.com/volotat/SD-CN-Animation) - This script allows to automate video stylization task using StableDiffusion and ControlNet
   
