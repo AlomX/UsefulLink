@@ -4,6 +4,7 @@ links
 Just a bunch of useful links.
 
 - Dev
+  - [Name Checker](https://namechecker.vercel.app/) - Find out if your project name is taken
   - [Openings.moe](https://github.com/AniDevTwitter/animeopenings) - Weeb shit
   - [Epieos](https://epieos.com/) - It's time to find everything with a simple e-mail
   - [Awesome Search Engines](https://github.com/gguilt/awesome-search-engines) - List of usefull search engine
