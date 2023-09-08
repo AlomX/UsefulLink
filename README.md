@@ -25,6 +25,7 @@ Just a bunch of useful links.
   - [Codecompare](https://www.devart.com/codecompare/) - Compare and Merge Your Source Code
   - [CryptoHack](https://cryptohack.org/) - A fun, free platform to learn about cryptography through solving challenges and cracking insecure code
   - [Root Me](https://www.root-me.org/) - is a platform for everyone to test and improve their knowledge of computer security and hacking.
+  - [hostux.network](https://hostux.network/en) - List of privacy-friendly open source projects
 
 - Images & Videos
   - [LottieFiles](https://lottiefiles.com/) - Create animations with ease
