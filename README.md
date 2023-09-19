@@ -26,6 +26,7 @@ Just a bunch of useful links.
   - [CryptoHack](https://cryptohack.org/) - A fun, free platform to learn about cryptography through solving challenges and cracking insecure code
   - [Root Me](https://www.root-me.org/) - is a platform for everyone to test and improve their knowledge of computer security and hacking.
   - [hostux.network](https://hostux.network/en) - List of privacy-friendly open source projects
+  - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
 - Images & Videos
   - [LottieFiles](https://lottiefiles.com/) - Create animations with ease
