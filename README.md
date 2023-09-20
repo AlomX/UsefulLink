@@ -63,6 +63,7 @@ Just a bunch of useful links.
   - [VDO.Ninja](https://vdo.ninja/) - Bring live video by Peer-to-Peer from your smartphone, remote computer, or friends directly into OBS or other studio software
   - [Invidious](https://invidious.io/) - Invidious is an open source alternative front-end to YouTube
   - [Cryptpad](https://cryptpad.fr) - Collaborative tools end-to-end encrypted and open source
+  - [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
   
 - AI
   - [Voldy Retard Guide](https://rentry.org/voldy) - The definitive Stable Diffusion experience
