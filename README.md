@@ -27,6 +27,7 @@ Just a bunch of useful links.
   - [Root Me](https://www.root-me.org/) - is a platform for everyone to test and improve their knowledge of computer security and hacking.
   - [hostux.network](https://hostux.network/en) - List of privacy-friendly open source projects
   - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+  - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) - Curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
 
 - Images & Videos
   - [LottieFiles](https://lottiefiles.com/) - Create animations with ease
