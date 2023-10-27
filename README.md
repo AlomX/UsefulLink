@@ -28,6 +28,7 @@ Just a bunch of useful links.
   - [hostux.network](https://hostux.network/en) - List of privacy-friendly open source projects
   - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
   - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) - Curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
+  - [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) - 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 
 - Images & Videos
   - [LottieFiles](https://lottiefiles.com/) - Create animations with ease
@@ -45,6 +46,7 @@ Just a bunch of useful links.
   - [Merci App](https://www.merci-app.com/) - French corrector
   - [Smash](https://fromsmash.com/) - Send bigger files than weTransfer, possibility to customize your sharing link
   - [ASCIIFlow](https://asciiflow.com/#/) - Infinite ASCII diagrams, save to Google Drive, resize, freeform draw, and export straight to text/html
+  - [Free Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
   
 - Audio
   - [SplitMySong](https://www.splitmysong.com/my-songs) - Split track of a song
