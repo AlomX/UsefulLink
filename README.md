@@ -29,6 +29,9 @@ Just a bunch of useful links.
   - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
   - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) - Curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
   - [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) - 3D Gaussian Splatting for Real-Time Radiance Field Rendering
+ 
+- Game Dev
+  - [InfiniteGrid.shader](https://gist.github.com/bgolus/455a3666188f12cf13189839480e7120) - Infinite Grid shader with procedural grid with configurable divisions and major and minor lines markings.
 
 - Images & Videos
   - [LottieFiles](https://lottiefiles.com/) - Create animations with ease
