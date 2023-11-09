@@ -33,6 +33,7 @@ Just a bunch of useful links.
 - Game Dev
   - [InfiniteGrid.shader](https://gist.github.com/bgolus/455a3666188f12cf13189839480e7120) - Infinite Grid shader with procedural grid with configurable divisions and major and minor lines markings.
   - [GitHub Unity Open Source](https://github.com/baba-s/awesome-unity-open-source-on-github) - A categorized collection of awesome Unity open source on GitHub (800+)
+  - [Buildify 1.0](https://paveloliva.gumroad.com/l/buildify) - Buildify is a geometry nodes library for easy building creation in Blender
 
 - Images & Videos
   - [LottieFiles](https://lottiefiles.com/) - Create animations with ease
