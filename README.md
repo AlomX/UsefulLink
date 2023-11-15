@@ -97,4 +97,5 @@ Just a bunch of useful links.
   - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) - An Automatic Evaluator for Instruction-following Language Models
   - [SD-CN-Animation](https://github.com/volotat/SD-CN-Animation) - This script allows to automate video stylization task using StableDiffusion and ControlNet
   - [VALL-E X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model
+  - [GPT-author](https://github.com/mshumer/gpt-author) - This project utilizes a chain of GPT-4, Stable Diffusion, and Anthropic API calls to generate an original fantasy novel
   
