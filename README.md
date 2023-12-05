@@ -53,6 +53,7 @@ Just a bunch of useful links.
   - [Smash](https://fromsmash.com/) - Send bigger files than weTransfer, possibility to customize your sharing link
   - [ASCIIFlow](https://asciiflow.com/#/) - Infinite ASCII diagrams, save to Google Drive, resize, freeform draw, and export straight to text/html
   - [Free Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
+  - [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - Document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper
   
 - Audio
   - [SplitMySong](https://www.splitmysong.com/my-songs) - Split track of a song
