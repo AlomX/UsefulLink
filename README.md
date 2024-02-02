@@ -78,6 +78,7 @@ Just a bunch of useful links.
   - [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly
   - [Hiren's BootCD PE](https://www.hirensbootcd.org/) - Live CD that allows you to repair and / or disinfect their computer
   - [Medicat](https://github.com/mon5termatt/medicat_installer) - Compile a selection of the latest computer diagnostic and recovery tools into an easy to use toolkit
+  - [Pi Presents](https://pipresents.wordpress.com) - Pi Presents is a toolkit for producing interactive multimedia applications for museums, visitor centres, and more
   
 - AI
   - [Voldy Retard Guide](https://rentry.org/voldy) - The definitive Stable Diffusion experience
