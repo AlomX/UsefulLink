@@ -33,6 +33,7 @@ Just a bunch of useful links.
   - [Internet Scanner](https://github.com/marmust/internet-scanner) - See the internet as a physical network of web pages
   - [FireFish](https://joinfirefish.org/) - Self hosted social network, with ActivityPub standard to communicate across multiple pieces of software.
   - [Icecast](https://icecast.org/) - Free server software for streaming multimedia.
+  - [BuiltWith](https://builtwith.com/) - Find out what websites are Built With
  
 - Game Dev
   - [InfiniteGrid.shader](https://gist.github.com/bgolus/455a3666188f12cf13189839480e7120) - Infinite Grid shader with procedural grid with configurable divisions and major and minor lines markings.
